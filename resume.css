@@ -1,0 +1,23 @@
+#header {
+    display: flex;
+    justify-content: center;
+}
+#whoiam {
+    display: flex;
+    justify-content: center;
+}
+#whoiam p {
+    width: 70%;
+    min-width:  400px;
+}
+#talkingpoints {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#talkingpoints h2 {
+    margin-bottom: 10px;
+}
+#talkingpoints ul {
+    margin-top: 0px;
+}
